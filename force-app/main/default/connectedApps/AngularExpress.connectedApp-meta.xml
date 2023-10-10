@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>a.danielqz@gmail.com</contactEmail>
+    <iconUrl>https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png</iconUrl>
+    <label>AngularExpress</label>
+    <logoUrl>https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png</logoUrl>
+    <oauthConfig>
+        <callbackUrl>https://www.albertdan.com/oauth2/callback</callbackUrl>
+        <consumerKey>3MVG9kBt168mda_95Y.3Re3isgTYvQlBLQ8fYqWmaSvnVOa877LkLz87J5siJNiZdj628Mg6TMTWJ5JUiz3L8</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <scopes>Full</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>
